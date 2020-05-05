@@ -1,7 +1,6 @@
 /*
 created by
 Nilesh Domah
-5216096
  */
 
 public class Quadratic {
